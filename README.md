@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-sysetm-devops
+system-devops
